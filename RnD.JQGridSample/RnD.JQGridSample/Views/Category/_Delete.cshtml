@@ -1,0 +1,20 @@
+﻿@model RnD.JQGridSample.Models.Category
+@using (Html.BeginForm())
+{  
+    
+    <fieldset>
+        <legend>Category:</legend>
+        <div id="deleteCategoryMess" class="error invisible">
+        </div>
+        @Html.HiddenFor(model => model.CategoryId)
+        <div class="display-field">
+            <strong>Category Name: </strong>@Html.DisplayFor(model => model.Name)
+        </div>
+        <div class="display-field">
+            Do you want delete this category?
+        </div>
+        <p>
+            <input type="submit" name="name" value="Delete" />
+        </p>
+    </fieldset>
+}

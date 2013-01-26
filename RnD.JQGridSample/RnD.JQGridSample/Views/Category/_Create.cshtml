@@ -1,0 +1,19 @@
+﻿@model RnD.JQGridSample.Models.Category
+@using (Html.BeginForm())
+{
+    
+    <fieldset>
+        <legend>Category:</legend>
+        @Html.ValidationSummary(true)
+        <div id="addCategoryMess" class="error invisible">
+        </div>
+        <div class="editor-field">
+            <strong>@Html.LabelFor(model => model.Name): </strong>
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+        <p>
+            <input type="submit" name="name" value="Save" />
+        </p>
+    </fieldset>
+}
