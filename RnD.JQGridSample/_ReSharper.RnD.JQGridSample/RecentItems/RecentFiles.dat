@@ -6,6 +6,8 @@
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Shared/f:_SocialLinkPartial.cshtml" caret="419" fromTop="6" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Models/f:AppDbContext.cs" caret="191" fromTop="8" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/f:Global.asax.cs" caret="1413" fromTop="17" />
+    <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/f:Web.config" caret="955" fromTop="12" />
+    <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:ViewModels/f:GridViewModels.cs" caret="251" fromTop="10" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Category/f:Index.cshtml" caret="226" fromTop="7" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Category/f:_Details.cshtml" caret="23" fromTop="0" />
@@ -17,8 +19,6 @@
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Shared/f:_JQueryGridPartial.cshtml" caret="141" fromTop="1" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Scripts/d:App/f:category-jq.js" caret="0" fromTop="0" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Controllers/f:CategoryController.cs" caret="0" fromTop="0" />
-    <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
-    <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/f:Web.config" caret="1288" fromTop="9" />
   </RecentFiles>
   <RecentEdits>
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Shared/f:_SocialLinkPartial.cshtml" caret="419" fromTop="6" />
@@ -27,6 +27,7 @@
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Models/f:AppModels.cs" caret="351" fromTop="0" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Models/f:AppDbContext.cs" caret="191" fromTop="8" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/f:Global.asax.cs" caret="1413" fromTop="17" />
+    <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/f:Web.config" caret="955" fromTop="12" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Shared/f:_JQueryGridPartial.cshtml" caret="161" fromTop="1" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Scripts/d:App/f:app-jq.js" caret="21" fromTop="1" />
@@ -39,6 +40,5 @@
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Category/f:_Edit.cshtml" caret="591" fromTop="15" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Category/f:_Delete.cshtml" caret="569" fromTop="16" />
     <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/d:Views/d:Shared/f:_Layout.cshtml" caret="1581" fromTop="17" />
-    <File id="B5DE5D85-893A-4B66-A4DE-1945F1B563BD/f:Web.config" caret="1227" fromTop="8" />
   </RecentEdits>
 </RecentFiles>

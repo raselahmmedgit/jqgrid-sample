@@ -19,7 +19,6 @@
         rowNum: 10,                                //default page size
         rowList: [10, 20, 30, 40, 50],                 //option of page size
         height: "100%",                          //grid height
-        width: "100%",                          //grid width
         sortname: 'id',                     //default sort column name
         sortorder: "desc",                       //sorting order
         viewrecords: true,                         //by default records show?
